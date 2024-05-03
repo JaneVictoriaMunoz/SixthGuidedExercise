@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SixthGuidedExercise</string>
+    <string name="click">Click</string>
+    <string name="checkbox_and_text_color_guided_exercise">Checkbox and Text Color Guided Exercise</string>
+    <string name="result">Result</string>
+    <string name="four">Four</string>
+    <string name="three">Three</string>
+    <string name="two">Two</string>
+    <string name="one">One</string>
+</resources>
